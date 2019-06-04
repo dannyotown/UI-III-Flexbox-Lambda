@@ -205,3 +205,10 @@ p{
 	margin-top: 25px;
 	margin-left: 20px;
 }
+@media screen and (max-width: 768px) {
+	/* For mobile phones: */
+	.services-info-img{
+		height:200px;
+		width: 100px;
+	}
+  }
